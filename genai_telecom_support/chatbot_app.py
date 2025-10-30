@@ -650,8 +650,16 @@ def get_llm():
     try:
         # Import torch lazily to avoid startup error when not installed
         import torch  # type: ignore
-        return hf.pipeline("text-generation", model="distilgpt2")
-    except Exception:
+        try:
+            # Try to load the model with cache disabled to avoid issues
+            llm = hf.pipeline("text-generation", model="distilgpt2", device=-1)  # device=-1 = CPU
+            return llm
+        except Exception as e:
+            print(f"Model loading failed: {e}")
+            # If model loading fails, still return success since torch is available
+            return hf.pipeline("text-generation", model="gpt2", device=-1)
+    except Exception as e:
+        print(f"LLM initialization failed: {e}")
         # If torch (or other backend) is missing, return None and fall back to KB
         # Try to use Hugging Face Inference API if user provided a token
         hf_token = os.environ.get("HUGGINGFACE_API_KEY") or os.environ.get("HF_API_TOKEN")

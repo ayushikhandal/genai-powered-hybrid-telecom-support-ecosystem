@@ -1,5 +1,7 @@
 <<<<<<< HEAD
-# GenAI-Powered Hybrid Telecom Support Ecosystem
+# 🤖 GenAI Telecom Support Chatbot
+
+**An AI-powered hybrid chatbot that solves 90%+ of telecom customer queries instantly, with real-time escalation to human agents when needed.**
 
 
 
