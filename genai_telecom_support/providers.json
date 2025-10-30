@@ -1,0 +1,6 @@
+{
+  "jio": ["jio", "rio", "reliance jio"],
+  "airtel": ["airtel", "hittel", "aertel"],
+  "vodafone": ["vodafone", "vodafone idea", "vi"],
+  "vi": ["vi", "vodafone idea", "vodafone"]
+}

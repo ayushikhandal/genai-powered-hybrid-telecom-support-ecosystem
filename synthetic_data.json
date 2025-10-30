@@ -1,0 +1,202 @@
+[
+  {
+    "query": "How do I check my data balance",
+    "response": "Open the telecom app and go to My Account. View your remaining data, calls, and SMS. See your plan expiry date",
+    "category": "plan change"
+  },
+  {
+    "query": "How to recharge my plan",
+    "response": "Open the app and tap Recharge. Select your desired plan or amount. Choose payment method. Complete the transaction. Confirmation SMS will be sent",
+    "category": "billing"
+  },
+  {
+    "query": "How do I change my plan",
+    "response": "Open the app and go to Plans. View available plans. Click Change Plan. Select your new plan. Pay any difference. New plan activates immediately",
+    "category": "plan change"
+  },
+  {
+    "query": "My internet is very slow",
+    "response": "Restart your phone. Toggle airplane mode off then on. Check if 4G is enabled. Move closer to network tower. Use mobile data instead of WiFi. Check if data limit reached",
+    "category": "network outage"
+  },
+  {
+    "query": "My phone is not connecting to mobile network",
+    "response": "Check if airplane mode is OFF. Reinsert your SIM card. Restart your phone. Check network settings. Search for networks manually. If still not working, visit service center",
+    "category": "device problem"
+  },
+  {
+    "query": "Battery is draining very fast",
+    "response": "Reduce screen brightness. Disable background app refresh. Turn off mobile data when not needed. Check battery usage in settings. Enable battery saver mode. Update device software",
+    "category": "device problem"
+  },
+  {
+    "query": "I am unable to make calls",
+    "response": "Check if you have account balance. Verify airplane mode is OFF. Ensure phone number format is correct. Restart your phone. Check network signal. Try switching between 4G and 3G. Contact support",
+    "category": "network outage"
+  },
+  {
+    "query": "What is the best plan for heavy data users",
+    "response": "Consider Unlimited Data Plans with no throttling. Family Plans to share data. Work Plans with high-speed data. Choose based on daily usage and required speed",
+    "category": "plan change"
+  },
+  {
+    "query": "How do I know if 5G is available in my area",
+    "response": "Open the app and go to Coverage. Enter your location or pincode. Check if 5G is marked available. Enable 5G in phone settings. Look for 5G icon in status bar",
+    "category": "network outage"
+  },
+  {
+    "query": "My SIM card is not detected",
+    "response": "Power off your phone. Carefully remove SIM card. Clean both sides with soft cloth. Reinsert SIM card firmly. Power on phone. Wait 30 seconds. If still not detected, visit service center",
+    "category": "device problem"
+  },
+  {
+    "query": "How do I report a billing issue",
+    "response": "Open the app and go to Billing. Find disputed charge. Click Raise Dispute. Select reason and provide details. Team will review within 48 hours. Receive updates via SMS and email",
+    "category": "billing"
+  },
+  {
+    "query": "What are the roaming charges",
+    "response": "Domestic roaming is usually included. International roaming varies by country. Open app and search for Roaming Charges. Select destination country. View rates. Consider roaming packs for discounts",
+    "category": "plan change"
+  },
+  {
+    "query": "How do I top up my balance",
+    "response": "Open the telecom app and tap Top Up. Enter amount or select preset. Choose payment method. Complete payment. Balance updates instantly. Get confirmation SMS",
+    "category": "billing"
+  },
+  {
+    "query": "My WiFi calling is not working",
+    "response": "Go to Settings and Mobile Networks. Find WiFi Calling. Toggle it ON. Select WiFi Preferred or Mobile Preferred. Ensure WiFi is stable. Check if WiFi calling is supported in region",
+    "category": "network outage"
+  },
+  {
+    "query": "How do I check my call history and usage",
+    "response": "Open the app and go to Usage. View Calls, SMS, and Data used. See day-wise usage. Set data alerts. Export usage report as PDF if needed",
+    "category": "billing"
+  },
+  {
+    "query": "I am getting unwanted calls",
+    "response": "Tap Reject on incoming call. Select Block this number. Go to Settings and Call Settings. Manage Block List. Enable Call Screening for spam. Report spam through app. Enable Do Not Disturb at night",
+    "category": "device problem"
+  },
+  {
+    "query": "What is my current plan details",
+    "response": "Open the app and go to My Plan. See plan name, cost, validity, data limit, and benefits. View bill due date. Option to upgrade or change plan",
+    "category": "plan change"
+  },
+  {
+    "query": "My payment was rejected",
+    "response": "Check if sufficient balance in account. Ensure card or UPI is active. Try different payment method. Check internet connection. Wait 5 minutes and retry. Contact your bank if card issue",
+    "category": "billing"
+  },
+  {
+    "query": "How do I enable mobile hotspot",
+    "response": "Go to Settings and Tethering. Toggle Mobile Hotspot ON. Set WiFi name and password. Share with others. Note hotspot uses more battery. Can limit connected devices",
+    "category": "device problem"
+  },
+  {
+    "query": "I am not receiving SMS or OTP",
+    "response": "Check if SMS enabled in settings. Verify data or signal available. Check inbox and spam. Restart phone. Remove SMS filter apps. Request resend. Try switching networks. Contact support",
+    "category": "network outage"
+  },
+  {
+    "query": "How to upgrade my plan",
+    "response": "Open app and navigate to Plans. Select plan with more data. Click Upgrade. Select upgrade date. Pay pro-rata amount if any. Confirm. Receive confirmation SMS",
+    "category": "plan change"
+  },
+  {
+    "query": "How to downgrade my plan",
+    "response": "Go to Plans in app. Select plan with lower data. Click Downgrade. Choose effective date usually next billing cycle. Confirm change. Receive confirmation SMS",
+    "category": "plan change"
+  },
+  {
+    "query": "What is FUP speed",
+    "response": "After using all high-speed data, speed reduces to FUP speed usually 64 kbps. Can still use internet at reduced speed at no cost. Applies until next billing cycle. Upgrade for unlimited speed",
+    "category": "plan change"
+  },
+  {
+    "query": "How do I add a data add-on",
+    "response": "Open app and go to Data Add-ons. Choose package size and validity. Select add-ons like 1GB, 2GB, 5GB. Click Add Now. Complete payment. Data added instantly to account",
+    "category": "plan change"
+  },
+  {
+    "query": "How to enable do not disturb mode",
+    "response": "Go to Settings and Sounds. Find Do Not Disturb. Toggle ON. Set schedule like 10 PM to 8 AM. Choose which contacts can reach you. Exceptions for Favorites. Emergency calls always come through",
+    "category": "device problem"
+  },
+  {
+    "query": "How do I view my bill",
+    "response": "Open app and go to Billing. Select billing month. See itemized charges including plan, add-ons, taxes. Download bill as PDF. Check due date. Pay online through app",
+    "category": "billing"
+  },
+  {
+    "query": "What payment methods are accepted",
+    "response": "Debit Cards, Credit Cards, UPI, Mobile Wallets, Net Banking. EMI options for some transactions. All payments secure with SSL encryption",
+    "category": "billing"
+  },
+  {
+    "query": "How long does activation take",
+    "response": "Plan Change is instant or within 24 hours. Recharge within 5 to 10 minutes. New Connection takes 24 to 48 hours. Add-ons instant. Receive confirmation SMS. Check My Account for status",
+    "category": "plan change"
+  },
+  {
+    "query": "Can I pause my plan",
+    "response": "Open app and go to My Plan. Look for Pause Plan option. Select pause duration like 7, 15, or 30 days. Charges pause during period. Number remains reserved. Auto-resume after pause. Can resume manually",
+    "category": "plan change"
+  },
+  {
+    "query": "How to get international roaming",
+    "response": "Open app and go to Roaming. Select destination country. Choose roaming pack. View country rates. Activate roaming. Receive welcome SMS in country. Set data limits to avoid surprises",
+    "category": "plan change"
+  },
+  {
+    "query": "My number is not showing",
+    "response": "Check if airplane mode is OFF. Reinsert SIM card. Go to Settings and About Phone. Check Status. If blank, contact support. Support can verify and update. Shows after network registration",
+    "category": "device problem"
+  },
+  {
+    "query": "How to register a complaint",
+    "response": "Open app and go to Help. Click Register Complaint. Select category. Describe issue in detail. Attach documents or screenshots. Submit complaint. Get ticket number for tracking. Resolution within 24 to 48 hours",
+    "category": "billing"
+  },
+  {
+    "query": "What is the customer care number",
+    "response": "Toll-Free Number usually 191 or 100. Check app for exact number. Chat Support available 24 by 7. Email Support available. Social Media Twitter and Facebook. Whatsapp Support available",
+    "category": "billing"
+  },
+  {
+    "query": "How to block incoming calls",
+    "response": "Tap Reject on unwanted call. Select Block Number. Blocked number will not ring. Go to Settings and Call Settings. Find Blocked List. Tap Unblock to remove. Can block up to 100 numbers",
+    "category": "device problem"
+  },
+  {
+    "query": "How to enable location services",
+    "response": "Go to Settings and Location. Toggle Location Services ON. Choose High Accuracy or Battery Saving. Allow app permissions. GPS will work for maps. Note GPS uses more battery. Turn off when not needed",
+    "category": "device problem"
+  },
+  {
+    "query": "How to clear cache and improve performance",
+    "response": "Go to Settings and Storage. Find app using memory. Tap Clear Cache. Does not delete your data. For deep clean go to Optimize. Uninstall unused apps. Restart phone after clearing",
+    "category": "device problem"
+  },
+  {
+    "query": "What is USSD code",
+    "response": "USSD codes are shortcuts to access services without internet. Work on 2G, 3G, 4G networks. Common codes include 123 for balance, 191 for care, 567 for plan. Check documentation for all codes",
+    "category": "plan change"
+  },
+  {
+    "query": "How to update app",
+    "response": "Open Play Store or App Store. Search for telecom app. If update available, tap Update. Wait for download and install. Tap Open. Force stop old app if needed. Updates include features and fixes",
+    "category": "device problem"
+  },
+  {
+    "query": "How to change my password",
+    "response": "Open app and go to Settings. Select Security. Click Change Password. Enter current password. Enter new strong password with 8 characters. Confirm new password. Password changes instantly",
+    "category": "device problem"
+  },
+  {
+    "query": "Can I use my plan abroad",
+    "response": "Yes with International Roaming. Add roaming pack before travel. Check rates for destination. Set data limit to control costs. Turn off auto-sync. Use WiFi when available. Keep emergency contacts accessible",
+    "category": "plan change"
+  }
+]

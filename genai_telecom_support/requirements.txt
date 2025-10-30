@@ -1,0 +1,7 @@
+streamlit
+transformers
+textblob
+requests
+
+# Optional (for local LLMs - Windows installs of torch can be tricky; use a venv and follow https://pytorch.org/)
+# torch
